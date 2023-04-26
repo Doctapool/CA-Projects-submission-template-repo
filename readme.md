@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP# or P# | Magical Machine Learning |  [Best article of the world](/) | [Best app of the world](/) |
+| LP1 |A Comprehensive Data Analysis of the Indian Startup Ecosystem from 2018-2021. |  [Best article of the world](/) | [https://github.com/Doctapool/CA-Projects-submission-template-repo?organization=Doctapool&organization=Doctapool](/) |
 
 ## Project Description
 
