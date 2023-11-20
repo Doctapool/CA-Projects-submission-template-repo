@@ -1,10 +1,6 @@
 # CA-Projects-template-submission-repo
 ## Crunching the Numbers: A Comprehensive Data Analysis of the Indian Startup Ecosystem from 2018-2021.
 
-## Summary
-| Code      | Name        | Published Article |  Deployed App |
-|-----------|-------------|:-------------:|------:|
-| LP1 |A Comprehensive Data Analysis of the Indian Startup Ecosystem from 2018-2021. |  [Best article of the world](/) | [https://github.com/Doctapool/CA-Projects-submission-template-repo?organization=Doctapool&organization=Doctapool](/) |
 
 ## Project Description
 
